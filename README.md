@@ -11,11 +11,10 @@ Data is fetched using the **Alpha Vantage API**, and watchlists are stored local
 
 ---
 
-## 📸 Screenshots
+## Video and Screenshots 
 
-| Home | Watchlist | View All |
-|------|-----------|----------|
-| ![Home](https://drive.google.com/uc?export=view&id=YOUR_HOME_IMAGE_ID) | ![Watchlist](https://drive.google.com/uc?export=view&id=YOUR_WATCHLIST_IMAGE_ID) | ![ViewAll](https://drive.google.com/uc?export=view&id=YOUR_VIEWALL_IMAGE_ID) |
+
+| ![Google Drive]([https://drive.google.com/uc?export=view&id=YOUR_HOME_IMAGE_ID](https://drive.google.com/drive/folders/1giOr1A0zQKedGfq3iJXLn8OuPMzJx4pD?usp=sharing)) |
 
 ---
 
