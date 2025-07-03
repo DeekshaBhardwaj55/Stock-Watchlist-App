@@ -14,7 +14,7 @@ Data is fetched using the **Alpha Vantage API**, and watchlists are stored local
 ## Video and Screenshots 
 
 
-| ![Google Drive]([https://drive.google.com/uc?export=view&id=YOUR_HOME_IMAGE_ID](https://drive.google.com/drive/folders/1giOr1A0zQKedGfq3iJXLn8OuPMzJx4pD?usp=sharing)) |
+| ![Google Drive]((https://drive.google.com/drive/folders/1giOr1A0zQKedGfq3iJXLn8OuPMzJx4pD?usp=sharing)) |
 
 ---
 
