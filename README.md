@@ -13,8 +13,8 @@ Data is fetched using the **Alpha Vantage API**, and watchlists are stored local
 
 ## Video and Screenshots 
 
+[Download APK](https://drive.google.com/drive/folders/1giOr1A0zQKedGfq3iJXLn8OuPMzJx4pD?usp=sharing)
 
-| ![Google Drive]((https://drive.google.com/drive/folders/1giOr1A0zQKedGfq3iJXLn8OuPMzJx4pD?usp=sharing)) |
 
 ---
 
